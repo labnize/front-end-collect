@@ -215,6 +215,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 - [【鸟哥】Laruence](http://weibo.com/p/1001603794538257899132)
 - [【Highcharts】Highcharts中文赞助](http://www.hcharts.cn/about/donate.php)
 - [【芒果云】 在线资源管理器](http://wwhttp://kalcaddle.com/about.html)
+- [wangeditor 轻量级web富文本编辑器](http://www.wangeditor.com/contact.html)
 
 ##[大漠](http://www.w3cplus.com)分享
 
