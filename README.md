@@ -50,7 +50,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 ###### 中文博客
 |名称 |活跃度 | 原创度 | 维护者|其他|
 | ----- | ----- | ------ |----- |-----|
-|[W3Cplus](http://www.w3cplus.com/)|★★★★★|★★★★★|携程 @大漠 |国内最优秀的前端博客，原创居多|
+|[W3Cplus](http://www.w3cplus.com/)|★★★★★|★★★★★|淘宝 @大漠 |国内最优秀的前端博客，原创居多|
 |[W3Cfuns](http://www.w3cfuns.com/)|★★★★★|★★★★☆|[#](http://www.w3cfuns.com/misc.php?mod=faq&action=faq&id=1) |专注于web前端开发行业的综合性门户网站|
 |[前端观察](http://www.qianduan.net/)|★★★★☆|★★★★☆|腾讯 ISUX @神飞|曾经最优秀，最近更新不频繁了|
 |[腾讯web前端 AlloyTeam 团队](http://www.alloyteam.com/)|★★★★|★★★★|[@腾讯AlloyTeam](http://t.qq.com/AlloyTeam)|来自于腾讯SNG(社交网络事业群)|
