@@ -42,7 +42,6 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |EchoJs_News|http://www.echojs.com/|每天推送若干好文，都是英文的，JS技术类|
 
 
-
 #### 专业博客
 
 注:此处`活跃度`为博客更新频率，`原创度`指的是作者原创或者翻译的文章所占博文比例。请尊重原创，大量转载其他网站资讯的网站和聚合类网站不做推荐。
