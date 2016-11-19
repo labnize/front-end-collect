@@ -167,6 +167,7 @@ https://github.com/foru17/luolei-dotfiles/blob/master/feedly.opml
 |Node.js 中文社区|http://cnodejs.org/|Node.js 国内最活跃的社区|
 |Code Wall|https://coderwall.com/|国外技术社区|
 | DIV.IO | http://div.io/ | 国内前端技术社区 |
+| 稀土掘金 | http://gold.xitu.io/ | 中国高质量的技术分享社区 |
 
 
 ##### 企业官方博客
